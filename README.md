@@ -1,12 +1,12 @@
 #Tournament_test.py usage:
 
-Install Vagrant according to [Instructions](https://classroom.udacity.com/courses/ud197/lessons/3423258756/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0)
+* Install Vagrant according to [Instructions](https://classroom.udacity.com/courses/ud197/lessons/3423258756/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0)
 
-Open command line program for OS
+* Open command line program for OS
 
-CD to vagrant directory
+* CD to vagrant directory
 
-Run commands:
+* Run commands:
 
   ```
   vagrant up
@@ -17,19 +17,19 @@ Run commands:
   python tournament_test.py
   ```
   
-All tests passed!
+* All tests passed!
 
 
 
 # Real world usage
 
-Install Vagrant according to [Instructions](https://classroom.udacity.com/courses/ud197/lessons/3423258756/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0)
+* Install Vagrant according to [Instructions](https://classroom.udacity.com/courses/ud197/lessons/3423258756/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0)
 
-Open command line program for OS
+* Open command line program for OS
 
-CD to vagrant directory
+* `CD` to vagrant directory
 
-Run commands to setup database:
+* Run commands to setup database:
 
   ```
   vagrant up
