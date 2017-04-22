@@ -40,10 +40,10 @@
   ```
 
 * Use tournament.py to set up your tournament and get pairings and standings
- *Register your players using registerPlayer("FIRST LASTNAME")
- * Return standings with playerStandings()
- * Record results of matches to the database with reportMatch(winner_id, loser_id)
- * Find swiss pairings with swissPairings()
+  * Register your players using registerPlayer("FIRST LASTNAME")
+  * Return standings with playerStandings()
+  * Record results of matches to the database with reportMatch(winner_id, loser_id)
+  * Find swiss pairings with swissPairings()
 
-  Use deleteMatches(), deletePlayers(), countPlayers() as needed to reset the tournament
+* Use deleteMatches(), deletePlayers(), countPlayers() as needed to reset the tournament
     or check your total number of registered users
