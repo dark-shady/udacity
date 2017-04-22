@@ -4,7 +4,7 @@
 
 * Open command line program for OS
 
-* CD to vagrant directory
+* `CD` to vagrant directory
 
 * Run commands:
 
